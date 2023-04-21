@@ -1,4 +1,5 @@
 from tkinter import Tk, Label
+from datetime import datetime
 
 window = Tk()
 window.title("Digital Clock")
